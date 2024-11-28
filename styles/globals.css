@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #121212; /* ダークテーマ */
+    color: #ffffff; /* テキストカラー */
+  }
+  a {
+    color: #1e90ff;
+    text-decoration: none;
+  }
+  
